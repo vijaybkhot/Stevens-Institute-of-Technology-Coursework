@@ -1,12 +1,9 @@
 package com.example.sudokumastermind;
 /*
 CS 501 
-Projectile Simulation
-Group : Project 4
+Sudoku Mastermind
 Vijay Khot
-&
-Sai Hitesh M R
- */
+*/
 
 import javafx.animation.*;
 import javafx.application.Application;
